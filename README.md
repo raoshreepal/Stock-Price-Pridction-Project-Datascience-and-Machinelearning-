@@ -114,21 +114,6 @@ Trained multiple machine learning regression models:
 
 ---
 
-## 🏫 Developed At
-**GLS University (FCAIT), Ahmedabad**
-
----
-
-## 🎓 Guided By
-**Dr. Jatin Modh** – FCAIT, Assistant Professor
-
----
-
-## 📊 Example Visualizations
-*(Screenshots or Tableau dashboard preview can be added here)*
-
----
-
 ## 📥 Installation & Usage
 
 1. **Clone the Repository**
